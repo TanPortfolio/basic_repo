@@ -1,0 +1,5 @@
+First create the basic repository on github.
+Pull a local repository from the remote repository.
+Add files to the local repository and pushes the committed changes to github.
+Make more changes to the local copy and push them to github.
+Upload .txt file outlining the steps.
